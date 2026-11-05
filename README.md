@@ -1,5 +1,7 @@
 # New Project
 
+[![Built with Zero](https://img.shields.io/badge/Built%20with-Zero-6C5CE7)](https://zero.codepet.ca)
+
 A minimal working Java starter for your own original app.
 
 This is a complete editable Zero project.
