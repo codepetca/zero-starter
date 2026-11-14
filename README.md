@@ -10,7 +10,7 @@ This is a complete editable Zero project.
 
 1. Open [Use this template](https://github.com/codepetca/zero-starter/generate), then choose **Create a new
    repository**. Select your personal account as owner, choose your own project
-   name and follow your teacher's visibility instructions.
+   name and choose the repository visibility that suits your project.
 2. Open the repository you just created in your own account. Choose **Code →
    HTTPS** and copy its URL. Sign in to Zero and choose **Project → Clone from GitHub…**.
    Paste your URL in **Clone from GitHub**. In **Clone location**, keep the default
@@ -92,10 +92,10 @@ steps; build and verify one step at a time. Start by changing the greeting in
 5. Click **Merge to main** beside your branch to merge and push the completed change.
    If Zero brings in newer main code, Run App again, then click Merge to main again.
    Merge to main merges the current branch into main and pushes main; it does not create a pull request.
-6. Check your actual files on GitHub's **main** branch. Submit your own repository
-   link separately in Pika, giving your teacher access if it is private.
+6. Check your actual files on GitHub's **main** branch. If your course uses Pika, submit your repository link there separately, granting
+   access to anyone who needs it if the repository is private.
 
-Run App does not require GitHub sign-in. Ask your teacher for help with setup,
+Run App does not require GitHub sign-in. See Zero Troubleshooting for help with setup,
 conflicts or failed pushes. See the [repository and push guide](https://github.com/codepetca/zero/blob/main/docs/GETTING-STARTED.md#your-individual-workflow).
 
 Canonical starter source: https://github.com/codepetca/zero-starter
