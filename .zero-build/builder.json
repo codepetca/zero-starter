@@ -285,8 +285,8 @@
     },
     {
       "path": "src/web-export/snapshot.js",
-      "sha256": "f03a94666683b14f1355aecec206c2b4dc3e8246350c497f1fb2ac05677bf2c8",
-      "bytes": 26762
+      "sha256": "906deb04fafdac3545f54733276bbebaba870ce365aa37cca0eecc67dd12aa01",
+      "bytes": 27140
     },
     {
       "path": "src/web-export/template/FxEvents.java",
@@ -324,5 +324,5 @@
       "bytes": 1796
     }
   ],
-  "closureSha256": "aa377f8a664abeccf259a2a58788a3092e35b59e2e541e8fbb09f63481bde9d0"
+  "closureSha256": "7880d451a24f2318227bd39d23f0500c29dcfcb5adb56e4a867aba85a9c16c24"
 }
